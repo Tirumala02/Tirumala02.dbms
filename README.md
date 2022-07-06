@@ -1,1 +1,0 @@
-# Tirumala02.dbms
